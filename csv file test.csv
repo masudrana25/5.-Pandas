@@ -1,0 +1,11 @@
+ID,NAME,MARKS,GRADE,PASS,FAIL
+1,a,10,A,Yes,No
+2,b,20,B,Yes,No
+3,c,30,C,Yes,No
+4,d,40,D,Yes,No
+5,e,50,A-,Yes,No
+6,f,60,B+,Yes,No
+7,g,70,A,Yes,No
+8,h,80,B,Yes,No
+9,j,90,C,Yes,No
+10,k,100,D,Yes,No
